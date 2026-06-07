@@ -4,7 +4,7 @@ A fully immersive virtual museum experience built in Unity, allowing users to ex
 
 
 
-![Home](home.png)
+![Museum Entrance](Museum Entrance.jpg)
 
 
 
@@ -22,37 +22,39 @@ A fully immersive virtual museum experience built in Unity, allowing users to ex
 ## 📸 Screenshots
 
 
-![Login](login.png)
+![Registration](Registration.jpg)
+
+
+![Verification](Verification.jpg)
+
+![Login](Login.jpg)
+
+![Welcome Page](Welcome.jpg)
 
 
 
 
-![Welcome Page](welcome.png)
+![Museum Entrance](Museum Entrance.jpg)
 
 
 
 
-![Museum Entrance](entrance.png)
+![Hall 1](Hall1.jpg)
 
 
 
 
-![Hall 1](hall1.png)
+![Hall 2](Hall2.jpg)
 
 
 
 
-![Hall 2](hall2.png)
+![Hall 3](Hall3.jpg)
 
 
 
 
-![Hall 3](hall3.png)
-
-
-
-
-![Parking](parking.png)
+![Parking](Parking.jpg)
 
 
 
