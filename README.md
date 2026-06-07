@@ -141,8 +141,3 @@ Muhammad Ali Shah
 This project is open source and available under the MIT License.
 ---
 
-**Important:**
-- Replace screenshot names (`hall1.png`, `login.png` etc) with your **actual file names**
-- Upload all screenshots to the **root of repo** (same place as README)
-
-Want me to also write your **LinkedIn post/project description** for this? 😊
