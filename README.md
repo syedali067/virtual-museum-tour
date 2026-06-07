@@ -107,15 +107,13 @@ Real artifacts from Sir Syed Memorial Museum Islamabad were scanned using a **Li
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Unity 2021 or higher
-- Firebase account
+### Option 1: Download & Run (Recommended)
+1. Go to the repository
+2. Download **VirtualMuseumTour.exe** (or whatever your file is named)
+3. Run the .exe file
+4. Login or create an account
+5. Explore the museum!
 
-### Run the project
-1. Clone the repository
-2. Open in Unity Hub
-3. Add your Firebase credentials in google-services.json
-4. Press Play in Unity Editor
 
 ---
 
