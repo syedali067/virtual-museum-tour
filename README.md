@@ -93,7 +93,7 @@ virtual-museum-tour/
 │   │   ├── AuthManager.cs
 │   │   ├── PlayerController.cs
 │   │   └── SceneManager.cs
-│   ├── Models/          # LiDAR scanned 3D models
+│   ├── Models/
 │   └── Prefabs/
 └── README.md
 ---
