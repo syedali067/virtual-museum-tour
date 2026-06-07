@@ -34,22 +34,22 @@ A fully immersive virtual museum experience built in Unity, allowing users to ex
 
 
 
-![Museum Entrance](Museum Entrance.jpg)
+![Museum Entrance](MuseumEntrance.jpg)
 
 
 
 
-![Hall 1](1st Hall.jpg)
+![Hall 1](1stHall.jpg)
 
 
 
 
-![Hall 2](2nd Hall.jpg)
+![Hall 2](2ndHall.jpg)
 
 
 
 
-![Hall 3](3rd Hall.jpg)
+![Hall 3](3rdHall.jpg)
 
 
 
