@@ -4,7 +4,7 @@ A fully immersive virtual museum experience built in Unity, allowing users to ex
 
 
 
-![Museum Entrance](Museum Entrance.jpg)
+![Museum Entrance](MuseumEntrance.jpg)
 
 
 
